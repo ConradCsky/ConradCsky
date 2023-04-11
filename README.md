@@ -6,4 +6,4 @@ I am a competent and effective lawyer with versatile experience in providing com
 <br>**Expertise**<br>
 <img align="left" alt="C++" src="https://img.shields.io/badge/C++%20-%2320232a.svg?&style=for-the-badge&logo=C++&logoColor=%2361DAFB" />
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux%20-%2343853D.svg?&style=for-the-badge&logo=Linux&logoColor=white" />
-<img align="left" alt="Cybersecurity" src="https://img.shields.io/badge/Security%20-%2343853D.svg?&style=for-the-badge&logo=Cybersecurity&logoColor=white" />
+<img align="left" alt="Cybersecurity" src="https://img.shields.io/badge/Security%20-%23C41E3A.svg?&style=for-the-badge&logo=Cybersecurity&logoColor=white" />
