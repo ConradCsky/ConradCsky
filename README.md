@@ -5,4 +5,4 @@ I am a competent and effective lawyer with versatile experience in providing com
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/konrad-czarnomski/)<br>
 <br>**Expertise**<br>
 <img align="left" alt="C++" src="https://img.shields.io/badge/C++%20-%2320232a.svg?&style=for-the-badge&logo=C++&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux%20-%2343853D.svg?&style=for-the-badge&logo=Linux&logoColor=white" />
